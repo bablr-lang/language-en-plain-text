@@ -40,8 +40,8 @@
     "bablr-language",
     "grammar",
     "english",
-    "blankspace",
-    "whitespace"
+    "plaintext",
+    "text"
   ],
   "repository": "git@github.com:bablr-lang/language-en-plain-text.git",
   "homepage": "https://github.com/bablr-lang/language-en-plain-text",
